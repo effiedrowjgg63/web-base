@@ -1,5 +1,5 @@
 export const universityInfo = {
-  name: "东山理工大学",
+  name: "Dongshan University of Technology",
   nameEn: "Dongshan University of Technology",
   foundedYear: 1985,
   motto: "Knowledge, Innovation, Excellence",
