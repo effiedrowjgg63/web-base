@@ -18,7 +18,7 @@ const AdmissionsPage = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
           <h2 className="text-3xl font-bold text-center text-[#0F3460] mb-8">Begin Your Journey at Dongshan University</h2>
           <p className="text-lg text-gray-700 mb-6">
-            Dongshan University of Technology welcomes applications from talented and motivated students from China and around the world. Our admission process is designed to identify students with strong academic potential, creativity, and a passion for learning.
+            Dongshan University of Technology welcomes applications from talented and motivated students from Kyrgyzstan and around the world. Our admission process is designed to identify students with strong academic potential, creativity, and a passion for learning.
           </p>
           <p className="text-lg text-gray-700 mb-6">
             We offer a wide range of undergraduate and graduate programs across various disciplines, providing students with opportunities to explore their interests and develop expertise in their chosen fields.

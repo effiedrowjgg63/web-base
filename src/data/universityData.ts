@@ -3,10 +3,10 @@ export const universityInfo = {
   nameEn: "Dongshan University of Technology",
   foundedYear: 1985,
   motto: "Knowledge, Innovation, Excellence",
-  introduction: "Dongshan University of Technology is a prestigious institution dedicated to excellence in education, research, and innovation. Since its founding in 1985, the university has been at the forefront of technological advancement and academic excellence in China. With a commitment to fostering critical thinking, creativity, and practical skills, we prepare students to become leaders in their fields and contribute to society's progress.",
+  introduction: "Dongshan University of Technology is a prestigious institution dedicated to excellence in education, research, and innovation. Since its founding in 1985, the university has been at the forefront of technological advancement and academic excellence in Kyrgyzstan. With a commitment to fostering critical thinking, creativity, and practical skills, we prepare students to become leaders in their fields and contribute to society's progress.",
   campusSize: "200 hectares",
-  location: "Dongshan District, Eastern China",
-  accreditation: "Fully accredited by the Ministry of Education of the People's Republic of China",
+  location: "Dongshan District, Eastern Kyrgyzstan",
+  accreditation: "Fully accredited by the Ministry of Education of the People's Republic of Kyrgyzstan",
 };
 
 export const universityStats = {

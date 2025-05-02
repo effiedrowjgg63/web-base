@@ -309,7 +309,7 @@ const AboutPage = () => {
                   <div className="space-y-2 text-gray-700">
                     <p>123 University Avenue</p>
                     <p>Dongshan District</p>
-                    <p>Eastern China</p>
+                    <p>Eastern Kyrgyzstan</p>
                     <p>Postal Code: 100000</p>
                   </div>
                   
